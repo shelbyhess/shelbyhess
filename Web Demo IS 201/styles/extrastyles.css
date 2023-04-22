@@ -1,0 +1,32 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color: #000000;
+    background-color: rgb(11, 119, 220);
+}
+li {
+    font-size: 16px;
+    font-weight: normal;
+    color: #000000;
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+    
+}
+a:visited {
+    color: rgb(34, 34, 178);
+}
+.resumelistheading {
+    font-weight: bold;
+    font-style: normal;
+    color: rgb(133, 208, 226);
+}
+.underline {text-decoration: underline;}
+.bold {font-weight: bold;}
+.justify {text-align: justify;}
+
+
